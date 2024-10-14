@@ -42,7 +42,7 @@
 
 6.) pilih no.0 untuk keluar dari menu
 
-![keluar admin](https://github.com/user-attachments/assets/d1c0228f-bead-427e-80f6-7f0e4a17b2b6)
+![keluar admin](https://github.com/user-attachments/assets/d1c0228f-bead-427e-80f6-7f0e4a17b2b6) 
 
 
 
